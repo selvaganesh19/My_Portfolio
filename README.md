@@ -1,7 +1,7 @@
 # My_Portfolio 🚀
 
 Welcome to **My_Portfolio**! This project showcases information **about me..........**  
-It features a modern, responsive design and interactive elements to highlight your skills, projects, and contact information. ---
+It features a modern, responsive design and interactive elements to highlight your skills, projects, and contact information. --
 
 ---
 

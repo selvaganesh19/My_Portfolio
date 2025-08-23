@@ -1,5 +1,3 @@
-
-
 # My_Portfolio 🚀
 
 Welcome to **My_Portfolio**! This project showcases information **about me.............**  

@@ -14,7 +14,7 @@ It features a modern, responsive design and interactive elements to highlight yo
 ## ✨ Features
 
 - **Responsive Design**: Optimized for desktop and mobile devices.
-- **Interactive Hamburger Menu**: Easily navigate the site using the hamburger menu (**see `script.js`**). -----
+- **Interactive Hamburger Menu**: Easily navigate the site using the hamburger menu (**see `script.js`**).
 - **Customizable Sections**: Showcase your bio, skills, projects, and more.
 - **Easy to Deploy**: Minimal dependencies for straightforward hosting.
 
